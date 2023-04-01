@@ -1,14 +1,14 @@
-﻿//////////////////////////////////////////
-//										//
-//	CPT205 Assignment 1					//
-//	Shuchen Yuan						//
+﻿/////////////////////////////////////////
+//										                  //
+//	CPT205 Assignment 1			          	//
+//	Shuchen Yuan						            //
 //	2036501                             //
 //  Instruction: press three times      //
 // 'w' or 'W' the card will get 'closer'//
-//                                   	//
+//                                   	  //
 //	if the card is 'close' enough       //
 //  the content of the middle picture   //
-//  will 'POP UP!'    		        	//
+//  will 'POP UP!'    		        	    //
 //////////////////////////////////////////
 
 #define FREEGLUT_STATIC
